@@ -1,2 +1,2 @@
-# forsakenscriptai
-Forsaken Script by AI (Gemini only)
+# scriptsbyai
+ Scripts by AI (Gemini only)
